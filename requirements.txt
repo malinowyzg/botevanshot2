@@ -1,0 +1,5 @@
+discord.py
+python-dotenv
+a2s
+flask
+flask_cors
